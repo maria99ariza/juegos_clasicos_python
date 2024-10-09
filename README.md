@@ -45,7 +45,7 @@ Un juego de preguntas de opción múltiple en el que el jugador debe responder 1
 
 3. Ejecuta cualquiera de los juegos utilizando Python:
    ```bash
-   python Juego ahorcado.py
+   python ahorcado.py
    python Clase_despertador-siesta-cafe.py
    python El algoritmo de la verdad.py
 
